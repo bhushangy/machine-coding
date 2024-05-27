@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.carousel {
+  text-align: center;
+}
+
+.buttonsContainer {
+  display: flex;
+  gap: 2rem;
+  margin-top: 3rem;
+}
